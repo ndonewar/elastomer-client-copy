@@ -13,7 +13,7 @@ group :development do
   gem "rake"
   gem "rubocop", "~> 1.63.0"
   gem "rubocop-github", "~> 0.20.0"
-  gem "rubocop-minitest", "~> 0.35.0"
+  gem "rubocop-minitest", "~> 0.36.0"
   gem "rubocop-performance", "~> 1.21.0"
   gem "rubocop-rake", "~> 0.6.0"
   gem "simplecov", require: false
